@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hey folks! I'm Sanjay, and I'm thrilled about diving into Data Science, Artificial Intelligence/Machine Learning, and Software Development. With academic prowess, hands-on projects, and wins from national hackathons, I'm honing my skills to solve challenges and brainstorm new ideas..<br><br>Right now, I'm working on Stat IQ, an AI-driven solution designed to revolutionize the business intelligence workflow. From data cleaning to creating insightful visualizations, this project automates the entire process, making data analysis seamless and efficient.<br><br>I'm always up for chatting about tech and would love to collaborate if you have any ideas. Let's connect! You can find me on LinkedIn and GitHub. Feel free to drop me a message!
+# About Me:
+Hi I’m Sanjay, a developer with a strong focus on backend engineering, AI systems, and clean, scalable software design. I work primarily with Python, FastAPI, Django REST, SQL, Node.js, and React, and I enjoy building well-structured APIs and reliable data workflows across PostgreSQL, MongoDB, and MySQL.
+I’m especially interested in LLMs, Gen-AI, and modern retrieval-driven systems, and I approach my work with curiosity, attention to detail, and a bias toward practical, real-world problem solving.
 
 
 ## 🌐 Socials:
